@@ -10,3 +10,17 @@ We release the dataset and evaluation scripts to broaden the diversity of medica
 
 ## Data Split
 The MedAraBench dataset consists of 24,883 Arabic medical question-answer pairs. The data was split at an 80-20 train-test ratio. The data splits are provided as CSV files in this repo.
+
+## Citation
+Found this work useful? Please consider citing our paper:
+
+```bibtex
+@misc{abudaoud2026medarabench,
+      title={MedAraBench: Large-Scale Arabic Medical Question Answering Dataset and Benchmark}, 
+      author={Mouath Abu-Daoud and Leen Kharouf and Omar El Hajj and Dana El Samad and Mariam Al-Omari and Jihad Mallat and Khaled Saleh and Nizar Habash and Farah E. Shamout},
+      year={2026},
+      eprint={2602.01714},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.01714}, 
+}
